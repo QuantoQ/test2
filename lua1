@@ -1,0 +1,7 @@
+local module = {}
+
+function module.bro(value1)
+	print("this came from a linkedsource")
+end
+
+return module
